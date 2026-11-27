@@ -10,6 +10,7 @@ Hosted US tariff and landed-cost API for import software and AI agents.
 - Pricing: https://hts.epi.me/pricing
 - OpenAPI: https://hts.epi.me/openapi.json
 - MCP endpoint: https://hts.epi.me/mcp
+- MCP setup (Claude, Cursor, VS Code): https://hts.epi.me/integrations
 - llms.txt: https://hts.epi.me/llms.txt
 
 ## What it does
@@ -23,6 +24,7 @@ Hosted US tariff and landed-cost API for import software and AI agents.
 ## Access
 
 - Agents: MCP + x402 on Base mainnet, USDC only
+- 20 free paid-tool calls per day per MCP client; prepaid API keys for more
 - Import software: prepaid API key plans
 
 ## Disclaimers
