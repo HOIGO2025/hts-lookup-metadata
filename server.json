@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "me.epi.hts/hts-lookup",
   "title": "HTS Lookup",
-  "description": "USITC HTS search, paid exact rates, duty, and landed cost. Live USDC on Base.",
-  "version": "0.3.0",
+  "description": "US import answers per paid call: exact HTS rates, landed cost with Section 301 and forced-labor applied, ranked classification candidates, and every trade action on a code with citations. Free search and a three-candidate preview. 0.005 to 0.02 USDC on Base.",
+  "version": "0.4.0",
   "remotes": [
     {
       "type": "streamable-http",
