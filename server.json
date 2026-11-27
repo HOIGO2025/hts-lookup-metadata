@@ -2,8 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "me.epi.hts/hts-lookup",
   "title": "HTS Lookup",
-  "description": "US import answers per paid call: exact HTS rates, landed cost with Section 301 and forced-labor applied, ranked classification candidates, and every trade action on a code with citations. Free search and a three-candidate preview. 0.005 to 0.02 USDC on Base.",
-  "version": "0.4.0",
+  "description": "US tariff answers per paid call: exact HTS rates, landed cost, 301/232/AD-CVD with citations.",
+  "version": "0.5.0",
+  "websiteUrl": "https://hts.epi.me/",
+  "repository": {
+    "url": "https://github.com/HOIGO2025/hts-lookup-metadata",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
