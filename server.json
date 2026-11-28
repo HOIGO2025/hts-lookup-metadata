@@ -3,7 +3,7 @@
   "name": "me.epi.hts/hts-lookup",
   "title": "HTS Lookup",
   "description": "US tariff answers per paid call: exact HTS rates, landed cost, 301/232/AD-CVD with citations.",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "websiteUrl": "https://hts.epi.me/",
   "repository": {
     "url": "https://github.com/HOIGO2025/hts-lookup-metadata",
