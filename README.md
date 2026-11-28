@@ -1,5 +1,7 @@
 # HTS Lookup API — hosted service metadata
 
+[![x402 settled](https://hts.epi.me/badge.svg)](https://hts.epi.me/proof)
+
 Hosted US tariff and landed-cost API for import software and AI agents.
 
 **Source code is private. This repository contains listing metadata only.**
